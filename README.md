@@ -1,6 +1,5 @@
 # React Form Widget
 
-
 ## Introduction
 
 > This repository contains form widget which was written with React framework.
@@ -10,7 +9,7 @@
 Initially clone the project from this repository.
 
 ```sh
-$ git clone https://gitlab.com/Nipun_Thathsara/react-form-widget.git
+$ git clone https://github.com/thathsaranipun/React-Form-Widget.git
 ```
 
 Please refer following steps to run the project in local or development
@@ -22,7 +21,7 @@ $ npm install
 $ npm start
 ```
 
-#### Reporting 
+#### Reporting
 
 To check the demo of the react form widget please refer this link
 
